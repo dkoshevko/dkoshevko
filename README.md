@@ -2,7 +2,7 @@
 Multi-potential Front-End Developer <br>
 CSS Master
 
-<b> 🌐 Socials: <a href="https://linkedin.com/in/denys-koshevko/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a> <a href="https://codepen.io/dkoshevko" target="_blank">![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a>
+<b> 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denys-koshevko/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dkoshevko) 
 
 # 💻 Tech Stack:
 ### Favs:
